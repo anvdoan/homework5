@@ -214,7 +214,19 @@ header{
   .card {
     flex-basis: 200px;
   }
-  /*Your code here again.*/
+  body{
+    background-image: none;
+  }
+  .pricing{
+    vertical-align: top;
+  }
+  .gallery{
+    display: none;
+
+  }
+  #gallery{
+    display: none;
+  }
   /*You will want four selectors*/
 }
 
