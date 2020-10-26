@@ -182,7 +182,7 @@ header{
   .card {
     display: flex;
     flex-basis: 225px;
-    flex-direction: row;
+  
   }
 
   .card_big{
