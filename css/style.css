@@ -150,7 +150,8 @@ header{
 }
 
 .nav_links{
-  /*Your code here again.*/
+  display: flex;
+  justify-content: center;
 }
 
 .nav_item a{
