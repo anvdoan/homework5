@@ -85,7 +85,7 @@ footer{
   border-radius: 7px;
   padding: 0 0 50px 0;
   display: flex;
-  flex-flow: : column wrap;
+  flex-flow: : column;
   flex-basis: 400px;
 
 }
