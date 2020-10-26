@@ -148,7 +148,6 @@ header{
   border-bottom: 3px solid #50C7C7;
   display: flex;
   justify-content: center;
-  flex-direction: column;
 }
 
 .nav_links{
