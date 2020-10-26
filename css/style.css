@@ -72,6 +72,7 @@ footer{
 .pricing{
     min-height: 500px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     /*Don't forget to vertically and horizontally alight the card*/
