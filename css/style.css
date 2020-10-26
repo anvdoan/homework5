@@ -182,7 +182,7 @@ header{
   .card {
     display: flex;
     flex-basis: 225px;
-  
+
   }
 
   .card_big{
@@ -194,7 +194,7 @@ header{
   header{
     display: flex;
     flex-flow: row;
-    align-items: flex-start;
+    justify-content: space-between;
   }
 
   .nav_links{
