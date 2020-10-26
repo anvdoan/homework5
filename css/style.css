@@ -61,19 +61,21 @@ footer{
 @keyframes logo_wiggle{
   /*Your code here.*/
 
-} 
+}
 
 #logo{
    /*Your code here.*/
- 
+
 }
 
 /* Cards! */
 .pricing{
     min-height: 500px;
-    /*Your code here.*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
     /*Don't forget to vertically and horizontally alight the card*/
-  
+
 }
 
 .card {
@@ -174,11 +176,11 @@ header{
 
   /* Navbar */
   header{
-    /*Your code here again.*/  
+    /*Your code here again.*/
   }
 
   .nav_links{
-    /*Your code here again.*/  
+    /*Your code here again.*/
   }
 
   .nav_item a{
@@ -186,13 +188,13 @@ header{
   }
 }
 
-@media print { 
+@media print {
   .card {
     flex-basis: 200px;
   }
   /*Your code here again.*/
-  /*You will want four selectors*/  
+  /*You will want four selectors*/
 }
 
-/*Your code here again.*/ 
+/*Your code here again.*/
 /*Add media query to handle reduced-motion*/
