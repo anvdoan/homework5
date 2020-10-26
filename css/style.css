@@ -216,6 +216,7 @@ header{
 
 @media screen and (prefers-reduced-motion: reduce){
   #logo{
+    animation: none;
     width: 420px;
   }
 }
