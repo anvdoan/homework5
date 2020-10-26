@@ -192,10 +192,13 @@ header{
 
   /* Navbar */
   header{
+    display: flex;
     flex-flow: row;
   }
 
   .nav_links{
+    display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: flex-end;
 
